@@ -168,6 +168,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 1.25em 0;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -183,10 +184,11 @@ input, select, textarea {
 		}
 	
 	h1 {
-		font-family: Montserrat;
+		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	}
 
 	h2 {
+		font-family: Montserrat;
 		font-size: 1.25em;
 	}
 
