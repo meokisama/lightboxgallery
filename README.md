@@ -5,8 +5,6 @@
 </p>
 <h1 align="center">Lightbox Photos Gallery</h1>
 
-## Instructions
-
 ### Overview
 
 Lightbox Photos Gallery is made up of three primary components:
