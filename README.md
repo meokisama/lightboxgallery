@@ -1,8 +1,8 @@
-##Lightbox Photos Gallery
+# Lightbox Photos Gallery
 
-##Instructions
+## Instructions
 
-###Overview
+### Overview
 
 Lightbox Photos Gallery is made up of three primary components:
 
@@ -18,7 +18,7 @@ Lightbox Photos Gallery is made up of three primary components:
 
 ___Note:__ Only the main wrapper and the thumbnails section are actually present in index.html. The viewer will be dynamically created on page load._
 
-###How it works:
+### How it works:
 
 Just add your thumbnails to the thumbnails section in the following format:
 ```
@@ -32,7 +32,7 @@ Just add your thumbnails to the thumbnails section in the following format:
 ```
 And that's it. Lightbox Photos Gallery will figure out the rest.
 
-####The "data-position" attribute
+#### The _"data-position"_ attribute
 
 As a full screen experience, the viewer will be subject to changes in its size and, consequently, its aspect ratio. Since your full size images are basically applied as backgrounds to the viewer itself, this means they'll probably (okay, definitely) get cropped. All is not lost, however, as you can use the optional "data-position" attribute to control how the full size image is positioned within the viewer. To do this, simply add it to your thumbnail's \<a> element and set it to any valid "background-position" value. For example, this:
 ```
@@ -40,20 +40,20 @@ As a full screen experience, the viewer will be subject to changes in its size a
 ```
 ... positions this particular full size image in the top left corner of the viewer (as opposed to its center, the default), effectively limiting cropping to everything but the top left corner.
 
-###Keyboard shortcuts:
+### Keyboard shortcuts
 
 Lightbox Photos Gallery is set up to respond to the following keyboard shortcuts:
 
-- Left Arrow: Go to previous image.
-- Right Arrow: Go to next image.
-- Up Arrow: Go to image above the current one in the thumbnails section.
-- Down Arrow: Go to image below the current one in the thumbnails section.
-- Space: Go to next image.
-- Escape: Toggle the main wrapper.
+- __Left Arrow:__ Go to previous image.
+- __Right Arrow: Go__ to next image.
+- __Up Arrow:__ Go to image above the current one in the thumbnails section.
+- __Down Arrow:__ Go to image below the current one in the thumbnails section.
+- __Space:__ Go to next image.
+- __scape:__ Toggle the main wrapper.
 
 ___Note:__ All keyboard shortcuts are disabled when the "xsmall" breakpoint is active (since they don't really make a whole lot of sense there)._
 
-###Other stuff:
+### Other stuff
 
 - The main wrapper can be moved to the left by changing the "misc.main-side" variable in assets/sass/libs/_vars.scss to "left" (and of course recompiling your CSS).
 
