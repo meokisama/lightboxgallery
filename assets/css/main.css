@@ -168,7 +168,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 1.25em 0;
-		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		font-family: 'Roboto Slab', serif;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -182,14 +182,15 @@ input, select, textarea {
 			color: inherit;
 			text-decoration: none;
 		}
-	
+
 	h1 {
-		font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+		font-family: 'Lobster', cursive;
 	}
 
 	h2 {
 		font-family: Montserrat;
 		font-size: 1.25em;
+		font-weight: 500;
 	}
 
 	h3 {
