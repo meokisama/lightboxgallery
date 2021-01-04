@@ -1,0 +1,22 @@
+
+/* Footer */
+
+	#footer {
+		@include padding(2.25em, 2.25em);
+
+		.copyright {
+			list-style: none;
+			padding: 0;
+
+			li {
+				display: inline-block;
+				font-size: 0.8em;
+				margin-left: 0.35em;
+				padding: 0;
+
+				&:first-child {
+					margin-left: 0;
+				}
+			}
+		}
+	}
