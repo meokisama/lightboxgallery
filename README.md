@@ -67,3 +67,11 @@ ___Note:__ All keyboard shortcuts are disabled when the "xsmall" breakpoint is a
 - The main wrapper can be moved to the left by changing the "misc.main-side" variable in ```assets/sass/libs/_vars.scss``` to "left" (and of course recompiling your CSS).
 
 - Additional tweakable settings can be found at the top of ```assets/js/main.js```, but be aware most of these need to sync with certain Sass variables (see comments for details).
+
+## Find me around the web 🌎:
+<a href="https://facebook.com/slytherinnn/"><img align="left" width="150" height="150" src="https://github.com/meokisama/meokisama/blob/master/image/2750554.png"> </a>
+- Information in public on <a href="https://meokisama.github.io/">__Blog__</a> ✍🏾
+- Sharing updates on <a href="https://facebook.com/slytherinnn/">__Facebook__</a> 💼
+- Other products on <a href="https://www.behance.net/meokisama">__Behance__</a> 🏓
+- Daily photos on <a href="https://www.instagram.com/hi.im.meoki/">__Instagram__</a> 📷
+- "Wibu" collection on <a href="https://www.flickr.com/photos/meokisama/albums">__Flickr__</a> 👾
