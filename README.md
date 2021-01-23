@@ -51,7 +51,7 @@ As a full screen experience, the viewer will be subject to changes in its size a
 
 ### Keyboard shortcuts
 
-Lightbox Photos Gallery is set up to respond to the following keyboard shortcuts:
+Lightbox Photos Gallery is set up to respond to the following keyboard shortcuts: 
 
 - __Left Arrow:__ Go to previous image.
 - __Right Arrow: Go__ to next image.
